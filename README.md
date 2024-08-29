@@ -1,5 +1,5 @@
 # Locomotive_Scroll
 
-# Locomotive Page Scroll using HTML CSS JS - Smooth Scroll Animation 
+Locomotive Page Scroll using HTML CSS JS - Smooth Scroll Animation 
 
-# Check it out - 
+# Check it out -  https://sanuthb.github.io/Locomotive_Scroll/
